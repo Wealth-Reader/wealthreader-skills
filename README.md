@@ -2,6 +2,8 @@
 
 Public, English-language guidance for AI coding assistants integrating the WealthReader open banking API for financial data aggregation. The `wealthreader-integration` skill covers widget onboarding, backend callbacks, redirect authentication, and token-based refresh of bank accounts and transactions. It does not implement bank connectors or initiate payments.
 
+The official guide for this skill lives in the WealthReader documentation: [Integrate with AI coding assistants](https://www.wealthreader.com/docs/en/ai-coding-assistants/).
+
 The skill follows the open [Agent Skills](https://agentskills.io/specification) format, so the same folder works in Claude Code, Codex, Cursor, Antigravity, Gemini CLI, GitHub Copilot, Grok Build, Windsurf, OpenCode, Amp, Cline, Roo Code, Kiro, and any other assistant that reads `SKILL.md`.
 
 ## Quick install
