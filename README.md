@@ -31,7 +31,7 @@ All provider-specific guidance was prepared from unauthenticated public document
 
 Before changing a contract, verify it against the linked public documentation and update the checked date. Keep prose, comments, and examples in English. Use synthetic fixtures, not copied personal-data examples. Keep recommendations distinct from documented provider guarantees; report documentation gaps rather than inventing behavior.
 
-No repository license has been selected yet.
+Repository materials are available under the [MIT License](LICENSE). Access to the WealthReader API and services remains subject to separate terms.
 
 ## Validation
 
