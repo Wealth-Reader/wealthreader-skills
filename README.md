@@ -1,8 +1,8 @@
-# WealthReader skills
+# Wealthreader skills
 
-Public, English-language guidance for AI coding assistants integrating the WealthReader open banking API for financial data aggregation. The `wealthreader-integration` skill covers widget onboarding, backend callbacks, redirect authentication, and token-based refresh of bank accounts and transactions. It does not implement bank connectors or initiate payments.
+Public, English-language guidance for AI coding assistants integrating the Wealthreader open banking API for financial data aggregation. The `wealthreader-integration` skill covers widget onboarding, backend callbacks, redirect authentication, and token-based refresh of bank accounts and transactions. It does not implement bank connectors or initiate payments.
 
-The official guide for this skill lives in the WealthReader documentation: [Integrate with AI coding assistants](https://www.wealthreader.com/docs/en/ai-coding-assistants/).
+The official guide for this skill lives in the Wealthreader documentation: [Integrate with AI coding assistants](https://www.wealthreader.com/docs/en/ai-coding-assistants/).
 
 The skill follows the open [Agent Skills](https://agentskills.io/specification) format, so the same folder works in Claude Code, Codex, Cursor, Antigravity, Gemini CLI, GitHub Copilot, Grok Build, Windsurf, OpenCode, Amp, Cline, Roo Code, Kiro, and any other assistant that reads `SKILL.md`.
 
@@ -62,11 +62,11 @@ Paths were checked against each vendor's public documentation on 2026-09-05. Ass
 
 ## Use it
 
-Ask for the integration in your application's own stack. The skill guides the assistant through the public WealthReader API contracts instead of guessing from other open banking or OAuth APIs. Example:
+Ask for the integration in your application's own stack. The skill guides the assistant through the public Wealthreader API contracts instead of guessing from other open banking or OAuth APIs. Example:
 
-> Use the wealthreader-integration skill to add the WealthReader widget and backend callback to my application. Retrieve accounts and transactions, and test locally without making live banking requests.
+> Use the wealthreader-integration skill to add the Wealthreader widget and backend callback to my application. Retrieve accounts and transactions, and test locally without making live banking requests.
 
-The skill contains instructions, not credentials, an SDK, or a hosted service. Live use still requires WealthReader onboarding and application configuration. Listing in any assistant's skill directory or marketplace is out of scope for this repository.
+The skill contains instructions, not credentials, an SDK, or a hosted service. Live use still requires Wealthreader onboarding and application configuration. Listing in any assistant's skill directory or marketplace is out of scope for this repository.
 
 ## Repository layout
 
@@ -91,7 +91,7 @@ All provider-specific guidance was prepared from unauthenticated public document
 
 Before changing a contract, verify it against the linked public documentation and update the checked date. Keep prose, comments, and examples in English. Use synthetic fixtures, not copied personal-data examples. Keep recommendations distinct from documented provider guarantees; report documentation gaps rather than inventing behavior.
 
-Repository materials are available under the [MIT License](LICENSE). Access to the WealthReader API and services remains subject to separate terms.
+Repository materials are available under the [MIT License](LICENSE). Access to the Wealthreader API and services remains subject to separate terms.
 
 ## Validation
 
