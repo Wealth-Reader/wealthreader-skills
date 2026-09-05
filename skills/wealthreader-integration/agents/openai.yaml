@@ -1,0 +1,4 @@
+interface:
+  display_name: "WealthReader Integration"
+  short_description: "Integrate WealthReader aggregation and widget flows"
+  default_prompt: "Use $wealthreader-integration to integrate WealthReader aggregation into my application using public documentation."
