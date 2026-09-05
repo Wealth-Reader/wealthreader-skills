@@ -1,6 +1,11 @@
 ---
 name: wealthreader-integration
 description: Integrate or troubleshoot WealthReader financial aggregation using its widget, backend callbacks, redirect authentication, and token-based refresh. Use for applications consuming WealthReader, not bank-connector implementation or payment initiation.
+license: MIT
+metadata:
+  author: WealthReader
+  version: "1.1"
+  sources-checked: "2026-09-05"
 ---
 
 # WealthReader integration

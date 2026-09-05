@@ -1,3 +1,4 @@
+# Optional display metadata read by Codex and ChatGPT. Other assistants ignore this file.
 interface:
   display_name: "WealthReader Integration"
   short_description: "Integrate WealthReader aggregation and widget flows"
